@@ -7,7 +7,7 @@ The input of the function should be a list containing 9 digits. The function sho
 
 The returned dictionary should follow this format:
 
-`py{
+`{
   'mean': [axis1, axis2, flattened],
   'variance': [axis1, axis2, flattened],
   'standard deviation': [axis1, axis2, flattened],
